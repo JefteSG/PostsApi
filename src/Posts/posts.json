@@ -1,0 +1,283 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Elden Ring",
+      "body": "Elden Ring é um RPG de ação, com um gigantesco mundo a ser explorado. Com dezenas de dungeons a serem examinadas, adquirir runas, derrotas chefões e muito mais, tudo com um visual macabro e de cair o queixo.",
+      "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "God of War",
+      "body": "God of War é um jogo de ação e aventura, onde você acompanha a vida mortal de Kratos enquanto ele tanta sobreviver. Aqui, Kratos volta ser pai e mentor do próprio filho Atreus. O jogador poderá controlar os dois personagens, enquanto viaja pelo reino Nórdico, enfrentando Deuses e monstros da mitologia viking.",
+      "photo": "https://i.pinimg.com/736x/d4/5e/72/d45e7239142a2b438b6407f2e137d9e6.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Hades",
+      "body": "Hades é um roguelike que possui elementos de ação e RPG. Neste game, o jogador irá controlar Zargreus, filho do Deus dos mortos Hades, que possui como objetivo sair do submundo. Com um estilo de combate bastante dinâmico, o jogo te ensina da pior maneira “aprenda morrendo” a passar das fases, sem ser frustrante.",
+      "photo": "https://i.insider.com/6079bce744f45400192071de"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Forza Horizon 5",
+      "body": "Em Forza Horizon 5 o jogador irá explorar um mundo repleto de corridas, competições para participar e missões para completar. Podendo escolher entre ficar horas no modo campanha, também poderá se divertir com os amigos de forma local ou em rede.",
+      "photo": "https://newesc.pt/wp-content/uploads/forza-horizon-5-button-fin-1629830068379.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Lost Ark",
+      "body": "Lost Ark é um dos MMORPGs mais aguardados do ano. Com mecânicas parecidas com Diablo e Path of Exile, possui fácil jogabilidade, além de ser um jogo que cativa o gamer a experimentar classes diferentes. Falando em classes, o jogo conta várias classes e subclasses, cada uma possuindo habilidades únicas.",
+      "photo": "https://assetsio.reedpopcdn.com/la_static_opengraph_600x300.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "Hogwarts Legacy",
+      "body": "Hogwarts Legacy é um jogo de RPG de ação baseado no mundo de Harry Potter. Nele, você vive como um estudante de Hogwarts na década de 1800, explorando o castelo, descobrindo segredos e enfrentando desafios enquanto aprende magia.",
+      "photo": "https://cdn.awsli.com.br/600x1000/1221/1221101/produto/1923941805398062d44.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "Chicory: A Colorful Tale",
+      "body": "Chicory A Colorful Tale é um jogo indie de aventura, onde você usa o poder de colorir para explorar, resolver quebra-cabeças e muito mais. Este belo jogo em 2D, mais parece um livro de colorir interativo, então prepare sua paleta de cores e embarque nessa jornada, em busca da verdade por trás do sumiço das cores.",
+      "photo": "https://images.nintendolife.com/3a6de35e56a7c/chicory-a-colorful-tale-cover.cover_large.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "Disco Elysium",
+      "body": "Neste RPG excêntrico de mundo aberto, você vive na pele de um detetive que acorda com amnésia em um mundo caótico cheio de crimes e corrupção. Entre em investigações e dente desvendar os mistérios deste universo enquanto vive diálogos complexos e desenvolve a personalidade do seu personagem.",
+      "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "title": "F1 2022",
+      "body": "F1 2022 é um dos melhores jogos de corrida para PC, oferecendo uma experiência autêntica da Fórmula 1 e uma jogabilidade desafiadora e emocionante. Sinta-se dentro da Fórmula 1 com gráficos impressionantes e um Modo Carreira complexo. Você pode gerenciar a sua própria equipe, disputar partidas multiplayers personalizando e adaptando os seus carros",
+      "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "It Takes Two",
+      "body": "It Takes Two é um jogo de aventura de plataforma, criado exclusivamente para o modo cooperativo. O jogo apresenta um casal, Cody e May, em crise no relacionamento, até que os dois são transformados em bonecos por um feitiço. Agora, o casal terá que trabalhar junto para salvar seu relacionamento, enquanto tentam sobreviver aos desafios do fantástico mundo em que se encontram.",
+      "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+      "userId": 2,
+      "id": 11,
+      "title": "Legends of Runeterra",
+      "body": "Legends of Runeterra é um jogo estratégico de cartas, com os campeões do LoL entrando na batalha, como cartas poderosas. Neste jogo você terá que usar sua habilidade, para combinar campeões, aliados e regiões de Runeterra para criar combinações inéditas entre as cartas e vencer seu oponente.",
+      "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+      "userId": 2,
+      "id": 12,
+      "title": "Final Fantasy VII Remake Intergrade",
+      "body": "Este é o remake do clássico jogo de RPG lançado em 1997 para o PS1. Aqui você acompanha Cloud e seus amigos, da organização Avalanche, em operações contra a Mega Corporação de Energia Elétrica, Shinra, que explora a energia vital do planeta em seus reatores.",
+      "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+      "userId": 2,
+      "id": 13,
+      "title": "Dead Space",
+      "body": "Dead Space é um jogo de tiro em terceira pessoa. Você joga como Isaac Clarke, um engenheiro espacial enviado para uma estação espacial infestada de criaturas alienígenas. Você precisa lutar contra essas criaturas, explorar a estação e desvendar os mistérios por trás da invasão. O jogo tem gráficos e efeitos de som realistas, tornando a experiência assustadora e imersiva.",
+      "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+      "userId": 2,
+      "id": 14,
+      "title": "The King of Fighters XV",
+      "body": "The King of Fighters XV é o mais novo game da série. Em KOF XV você contará com 39 lutadores jogáveis no lançamento, sendo eles uma mistura de personagens novos, clássicos, populares, heróis e vilões. Também conta com a tradicional batalha 3x3 e apresenta uma nova mecânica que aumenta a velocidade e a ação do jogo.",
+      "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+      "userId": 2,
+      "id": 15,
+      "title": "Overwatch 2",
+      "body": "Overwatch 2 é um jogo divertido, intenso e futurista. Você joga com um grupo de heróis lutando contra outros jogadores online. Há novos heróis, mapas e modos de jogo. Os gráficos são realistas e você pode experimentar diversos modos diferentes, como cooperativos ou competitivos. Há vários heróis para escolher, cada um com seu próprio estilo de jogo e habilidades!",
+      "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+      "userId": 2,
+      "id": 16,
+      "title": "Genshin Impact",
+      "body": "Genshin Impact é um RPG de aventura em mundo aberto, inspirado no clássico Zelda. Aqui você irá explorar o fantástico mundo “Teyvat” em busca de seu irmão gêmeo que foi perdido enquanto batalhava.",
+      "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 17,
+        "title": "Psychonauts 2",
+        "corpo": "Psychonauts 2 é um jogo que mistura ação e aventura na medida certa. O jogo mescla missões divertidas com conspirações misteriosas, enquanto você controla Raz, numa viagem através das mentes de amigos e inimigos, num ritmo eletrizante.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 18,
+        "title": "Marvel's Spider-Man: Miles Morales",
+        "corpo": "Para os fãs da Marvel e dos super-heróis, o Marvel's Spider-Man: Miles Morales não poderia ficar de fora da lista. Você assume o papel do Miles Morales em sua jornada para se tornar o novo Homem-Aranha. Siga os passos de Peter Park e enfrente desafios e inimigos inusitados que ameaçam a segurança de New York.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 19,
+        "title": "Hitman 3",
+        "corpo": "Hitman 3 é um jogo de ação e aventura, que fecha a trilogia do de World of Assassination. Aqui, você controla o lendário assassino Agente 47 que utiliza do improviso e a criatividade para eliminar seus alvos de maneiras interessantes.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 20,
+        "title": "Yu-Gi-Oh! Master Duel",
+        "corpo": "Yu-Gi-Oh! Master Duel trata-se da edição definitiva do jogo de estratégia de cartas. Este card game free-to-play da Konami pode ser jogado de duas formas, online em disputas com outras pessoas ou o modo offline, este último é voltado para quem quer enveredar pelo modo história e colecionar cartas.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 21,
+        "title": "Deathloop",
+        "corpo": "Deathloop é um novo FPS, onde dois assassinos rivais encontram-se presos numa misteriosa distorção temporal na ilha de Blackreef. Os personagens estão condenados a sempre repetir o mesmo dia. Sendo que para um deles, a única hipótese de quebrar o ciclo é assassinar os oito alvos principais, antes de reiniciar o dia.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 22,
+        "title": "Mini Motorways",
+        "corpo": "Mini Motorways trata-se de um jogo de simulação de estratégia sobre desenhar um esquema de uma cidade em crescimento. Aqui você poderá construir uma rede de tráfego, uma estrada de cada vez e muito mais, para criar uma metrópole movimentada.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 23,
+        "title": "The Elder Scrolls V: Skyrim",
+        "corpo": "Ganhador de mais de 200 prêmios, The Elder Scrolls V: Skyrim merece destaque em qualquer liga de jogos. Neste RPG de mundo aberto situado no mundo de Elder Scrolls, assuma o papel de um aventureiro em um mundo aberto, explorando cavernas, lutando contra monstros e resolvendo quebra-cabeças desafiantes.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 24,
+        "title": "Monster Hunter Rise",
+        "corpo": "Neste game de ação, junte-se a caça de monstros terríveis num enredo totalmente novo. Monster Hunter Rise é o novo jogo da franquia e traz várias otimizações, além de 14 categorias de armas diferentes, que oferecem diversos estilos de combate, seja de curto ou longo alcance.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 25,
+        "title": "Mass Effect: Legendary Edition",
+        "corpo": "Em Mass Effect: Legendary Edition, você irá reviver a lenda do Comandante Shepard na famosa trilogia Mass Effect. Aqui você poderá jogar o conteúdo base para um jogador, dos três jogos da aclamada franquia, onde suas escolhas influenciam todo o game e o destino da Galáxia.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 26,
+        "title": "Nioh 2: The Complete Edition",
+        "corpo": "Nioh 2: The Complete Edition é um RPG de ação, onde você enfrenta hordas de yokais. Neste game de dificuldade extrema, você cria seu próprio personagem, enquanto se aventura por ruínas de um Japão no período Sengoku.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 27,
+        "title": "Total War: Warhammer III",
+        "corpo": "Total Warhammer III é o final da trilogia deste jogo de ação e estratégia. Onde você irá reunir seu exército para adentrar o Reino do Caos, um local terrível, para batalhar pelo destino do mundo.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 28,
+        "title": "Vampire: The Masquerade Bloodhunt",
+        "corpo": "Vampire: The Masquerade Bloodhunt é um battle royale gratuito, baseado num famoso RPG de mesa chamado Vampire. Neste jogo ambientado em Praga, os personagens pertencem a facções inimigas de vampiros, utilizando seus poderes para caçar e ser melhor que seus rivais na batalha.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 29,
+        "title": "Guilty Gear - Strive",
+        "corpo": "Guilty Gear - Strive é o mais novo jogo da franquia. O jogo mantém a reputação da série, com uma trilha sonora de alta qualidade, gráficos inovadores mesclando o estilo 2D com 3D, com uma jogabilidade intensa e recompensadora.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 30,
+        "title": "Cities: Skylines",
+        "corpo": "Se você cresceu nos anos 2000, com certeza Sim City fez parte da sua vida. Cities: Skylines veio para renovar o conceito de jogos de simulação de cidades e se tornou, rapidamente, referência no seu estilo. Como um bom simulador, você pode criar e gerenciar seus próprios modelos de cidades, desenvolvendo seu layout, comércio, transporte, educação e muito mais.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 31,
+        "title": "Death’s Door",
+        "corpo": "Death’s Door é um jogo indie de ação e aventura, com uma pitada de Souls-like. Com uma história simples, que vai se desenrolando a medida que progride no jogo. Aqui você é um corvo ceifador de almas, funcionário de uma empresa que coleta espíritos e utiliza um portal que o leva ao mundo dos vivos para fazer o seu trabalho.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 32,
+        "title": "Streets of Rage 4",
+        "corpo": "Streets of Rage 4 é o quarto jogo de uma franquia beat’em up, febre no Mega Drive. Este novo jogo traz de volta personagens clássicos da linha, como Axel, Adam, Blaze, entre outros e mais alguns novos. O game também conta com belíssimas animações desenhadas á mão, novas habilidades e uma trilha sonora imersiva neste game de ação lateral.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 33,
+        "title": "Outer Wilds",
+        "corpo": "Outer Wilds é um game de exploração no espaço, onde você é o mais novo recruta de um programa espacial embrionário, denominado Outer Wilds. Que busca respostas num sistema solar estranho e que se encontra em constante evolução, em simultâneo, tenta descobrir porque seu sistema solar está preso num loop temporal de 22 minutos.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 34,
+        "title": "Horizon Zero Dawn - Complete Edition",
+        "corpo": "Zero Dawn Complete Edition é um premiado RPG de ação. Onde, você tenta desvendar os mistérios de uma futura Terra dominada por máquinas mortíferas. Utilize ataques devastadores contra máquinas e tribos rivais, à medida que explora o belo mundo, repleto de vida e perigo.\n\nEsta versão do jogo, conta com a enorme expansão The Frozen Wilds, que acrescenta novas áreas, habilidades, máquinas e muitos perigos para você conseguir vencer.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 35,
+        "title": "Halo Infinite",
+        "corpo": "A lendária série está de volta em Halo Infinite. Neste jogo de tiro em primeira pessoa, você irá enfrentar inimigos já conhecidos, enquanto tenta salvar o mundo das ameaças adversárias. O game também conta com uma versão gratuita, onde poderá jogar com seus amigos em variadas disputas, desde Modo Arena, Capture a Bandeira e outras.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 36,
+        "title": "Far Cry 6",
+        "corpo": "Far Cry 6 é o mais recente jogo de tiro em primeira pessoa da franquia da Ubisoft. Nele, você poderá escolher jogar com um protagonista feminino ou masculino enquanto explora Yara, versão alternativa de Cuba, comandada pelo fascista Antón Castillo.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 37,
+        "title": "Call of Duty: Warzone",
+        "corpo": "Call of Duty: Warzone é um battle royale gratuito mais completo do mercado. O jogo possui gráficos de alta qualidade e um nível de ação frenético. Também conta com várias armas, veículos e diversas opções de customização e contratos para serem completados ao longo da partida.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 38,
+        "title": "Ghostwire: Tokyo",
+        "corpo": "Este é um jogo de ação sobrenatural, onde você controla o único sobrevivente de Tóquio, após uma invasão de uma terrível névoa orquestrada por um profeta sinistro. Mas, não se preocupe, você contará com poderes elementais e habilidades de caça para te ajudar na aventura.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 39,
+        "title": "Valorant",
+        "corpo": "Valorant é um FPS tático da Riot, criado especialmente para concorrer com CS: GO, porém com gráficos mais indicados para PC fraco, além de um visual mais cartunesco. O jogo mistura elementos parecidos de Counter- Strike e Overwatch, onde cada personagem possui habilidades próprias.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 40,
+        "title": "Resident Evil 3 Remake",
+        "corpo": "Resident Evil 3 Remake como sugere o nome, foi inspirado em Resident Evil 3: Nemesis, um clássico jogo do PS 1. Neste jogo de ação e terror, a estrela é mais uma vez a policial Jill Valentine, que agora será caçada por uma arma biológica criada pela Umbrella.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 41,
+        "title": "Apex Legends",
+        "corpo": "Apex Legends é um battle royale free-to-play exclusivamente em primeira pessoa. Com um ritmo acelerado, repleto de ação, manobras e explosões para todos os lados. Trata-se de um game mais estratégico, pois você irá jogar em equipes de 3x3 além de contar com personagens com habilidades próprias. Apex Legends é um divertido título para quem não gosta de jogar sozinho.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 42,
+        "title": "Back 4 Blood",
+        "corpo": "Back 4 Blood é um jogo de tiro em primeiro pessoa. Dos mesmos criadores de Left 4 Dead, aqui você está no centro de uma guerra contra pessoas infectadas por um parasita mortífero que procuram devorar o que resta da civilização humana.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 43,
+        "title": "Lego Star Wars: The Skywalker Saga",
+        "corpo": "Lego Star Wars: The Skywalker Saga é um jogo de ação e aventura, ambientada no universo dos filmes. Porém, sem paralelo com a história e com o famoso humor do Lego. O game disponibiliza o enredo dos filmes, mas sem se prender a eles. aqui, você poderá escolher entre vários personagens da franquia para jogar, além dos veículos que irá controlar. Lego Star Wars: The Skywalker Saga é um jogo para todos os fãs!",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    },
+    {
+        "id": 44,
+        "title": "Valheim",
+        "corpo": "Valheim é um jogo de exploração e sobrevivência, para 1 até 10 jogadores. Aqui, você controla um guerreiro nórdico morto em batalha e levado por Valquírias para o purgatório primordial, encarregado de destruir os antigos rivais de Odin e assim, trazer paz para Valheim.",
+        "photo": "https://i.insider.com/621e78cd96929400196c1e2c"
+    }
+
+]
