@@ -13,10 +13,9 @@ app.get('/', (req, res) => {
 });
 
 app.get('/posts', (req, res) => {
-  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3000');
-  return res.json(posts);
-  
+  return res.json(postsData);
 });
-app.listen(port, () => {
+
+app.listen(3001, port, () => {
   console.log('Servidor está funcionando');
 });
